@@ -1,0 +1,14 @@
+Wifi Oficina
+
+Supercam_wifi
+pass: Supercam2025
+
+Supercam_invitados
+pass:Qwer1234
+
+internet 1er piso
+Arriba1234
+
+router principal
+usuario:admin
+contraseña:Supercam2024
